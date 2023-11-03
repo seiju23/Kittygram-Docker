@@ -7,7 +7,7 @@
 Клонируем репозиторий: 
 
 ```bash 
-git clone git@github.com:seiju23/kittygram_final
+git clone git@github.com:seiju23/Kittygram-Docker.git
 ```
 
 Запускаем контейнеры:
